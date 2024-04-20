@@ -1,0 +1,47 @@
+.product-list {
+    padding: 40px 0;
+  }
+  
+  .product-list h1 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 0;
+  }
+  
+  .product-list .btn-primary {
+    font-size: 16px;
+    padding: 10px 20px;
+  }
+  
+  .product-list .spinner-border {
+    width: 40px;
+    height: 40px;
+  }
+  
+  .product-list .text-danger {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
+  .product-card {
+    transition: transform 0.3s ease;
+  }
+  
+  .product-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .product-card .card-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .product-card .card-text {
+    margin-bottom: 20px;
+  }
+  
+  .product-card .btn {
+    font-size: 14px;
+    padding: 8px 16px;
+  }

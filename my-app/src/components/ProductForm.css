@@ -1,0 +1,40 @@
+.product-form {
+    padding: 40px 0;
+  }
+  
+  .product-form h1 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  
+  .product-form label {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .product-form input[type='text'],
+  .product-form textarea {
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  .product-form input[type='number'] {
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    width: 120px;
+  }
+  
+  .product-form .btn-save {
+    font-size: 18px;
+    padding: 10px 20px;
+  }
+  
+  .product-form .btn-cancel {
+    font-size: 18px;
+    padding: 10px 20px;
+  }

@@ -1,0 +1,21 @@
+.header {
+    padding: 20px 0;
+  }
+  
+  .header-logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .header-search {
+    margin-left: auto;
+  }
+  
+  .header .nav-link {
+    font-size: 18px;
+    margin-right: 15px;
+  }
+  
+  .header .nav-link.active {
+    font-weight: bold;
+  }
